@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dg/Downloads/mlopszoomcamp/02_experiment_tracking/mlruns/0/8b98d3c80fcc4648bb036e081e6835b2/artifacts
+end_time: 1685571824777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b98d3c80fcc4648bb036e081e6835b2
+run_name: chill-bird-577
+run_uuid: 8b98d3c80fcc4648bb036e081e6835b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685571798454
+status: 3
+tags: []
+user_id: dg
